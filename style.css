@@ -1,0 +1,80 @@
+* {
+    background-color: #343a40;;
+}
+
+.container1 { 
+    display: flex;
+    justify-content: space-around;
+}
+.contactusheadings {
+    color: #fff;
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+
+}
+.contactus {
+    border: 1px solid #222227;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.inputgroup1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.inpt1 {
+
+padding: 0 20px;
+font-size: 16px;
+color: #fff;
+background-color: #222227;
+border: 1px solid #222227;
+border-radius: 12px;
+height: 50px;
+margin-left: 20px;
+margin-bottom: 10px;
+}
+
+.inpt2 {
+    padding: 0 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #222227;
+    border: 1px solid #222227;
+    border-radius: 12px;
+    height: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    }
+
+.txtarea {
+    background-color: #222227;
+    width: 80%; 
+    font-size: 16px;
+    border: 1px solid #222227;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+}
+
+.submitbtn {
+    color: #fff;
+    padding: 0px 15px 0px 20px;
+    font-size: 14px;
+    height: 30px;
+    text-align: center;
+    font-weight: 400;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.iframemap {
+    border-radius: 10px;
+}
